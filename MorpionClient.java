@@ -1,4 +1,3 @@
-package morpion;
 import java.net.*;
 
 public class MorpionClient {
